@@ -1,0 +1,6 @@
+CREATE TABLE grupo(
+	codigo_grupo BIGINT(20) PRIMARY KEY NOT NULL,
+	nome varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
